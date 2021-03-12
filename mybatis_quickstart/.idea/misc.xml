@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../spring_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc_quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm_task01" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_muitltable/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_muitltable/mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_anno1/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_article/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_muitltable/jdbc_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../untitled1/pom.xml" />
+        <option value="$PROJECT_DIR$/../jdbc_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_dbutils/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_dbutils_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_tranfer/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_aop_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_aop_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../javaProjec/spring_transfer_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/../../javaProjec/spring_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_Article/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatis_dept/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm_task01/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

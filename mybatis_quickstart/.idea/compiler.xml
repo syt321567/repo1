@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis_quickstart" />
+        <module name="spring_jdbc" />
+        <module name="mybatis_anno1" />
+        <module name="jdbc_spring" />
+        <module name="spring_transfer_tx" />
+        <module name="spring_aop_xml" />
+        <module name="ssm" />
+        <module name="spring_quickstart" />
+        <module name="spring_aop_anno" />
+        <module name="spring_Article" />
+        <module name="spring_web" />
+        <module name="ssm_task01" />
+        <module name="spring_dbutils_anno" />
+        <module name="spring_dbutils" />
+        <module name="mybatis_article" />
+        <module name="springmvc_quickstart" />
+        <module name="mybatis_dept" />
+        <module name="mybatis_dao" />
+        <module name="spring_tranfer" />
+        <module name="mybatis_muitltable" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+  </component>
+</project>
